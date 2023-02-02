@@ -1,7 +1,7 @@
 # 算法·进阶石（algorithm-stone）—— 进击的每一步！
 
 <p align='left'>
-<a href="https://github.com/acm-clan/algorithm-stone" target="_blank"><img alt="GitHub" src="https://img.shields.io/github/stars/acm-clan/algorithm-stone?label=Stars&style=flat-square&logo=GitHub"></a>    <a href="https://oss.v8cloud.cn/markdown/72eeefe8497133dd56bbe3c56c794278.png" target="_blank"><img src="https://img.shields.io/badge/公众号-@ACM算法日常-000000.svg?style=flat-square&logo=WeChat"></a>    <a href="https://www.zhihu.com/people/acm-clan" target="_blank"><img src="https://img.shields.io/badge/知乎-@ACM算法日常-000000.svg?style=flat-square&logo=Zhihu"></a>
+<a href="https://github.com/KGYSaikou/algorithm-stone" target="_blank"><img alt="GitHub" src="https://img.shields.io/github/stars/KGYSaikou/algorithm-stone?label=Stars&style=flat-square&logo=GitHub"></a>    <a href="https://oss.v8cloud.cn/markdown/72eeefe8497133dd56bbe3c56c794278.png" target="_blank"><img src="https://img.shields.io/badge/公众号-@ACM算法日常-000000.svg?style=flat-square&logo=WeChat"></a>    <a href="https://www.zhihu.com/people/KGYSaikou" target="_blank"><img src="https://img.shields.io/badge/知乎-@ACM算法日常-000000.svg?style=flat-square&logo=Zhihu"></a>
 </p>
 
 本项目是公众号《ACM算法日常》整理的一个算法学习路线图。
@@ -19,7 +19,7 @@
 [新手入门vscode - 如何将宇宙最强vscode打造为刷题神器](docs/how_to_use_vscode.md)  
 
 ### 国家集训队论文1999-2019
-[国家集训队论文1999-2019](https://v8cloud.oss-cn-hangzhou.aliyuncs.com/acm-clan/book/%E5%9B%BD%E5%AE%B6%E9%9B%86%E8%AE%AD%E9%98%9F%E8%AE%BA%E6%96%871999-2019.zip)  
+[国家集训队论文1999-2019](https://v8cloud.oss-cn-hangzhou.aliyuncs.com/KGYSaikou/book/%E5%9B%BD%E5%AE%B6%E9%9B%86%E8%AE%AD%E9%98%9F%E8%AE%BA%E6%96%871999-2019.zip)  
 
 ### 新手入门-算法书籍推荐
 [01.数据结构与算法分析-C语言描述 详细书签.pdf](https://www.aliyundrive.com/s/wKKdv4XAazq)<br>
@@ -41,38 +41,38 @@
 
 #### Tree路线图（进度100%）
 1. [动画红黑树，旋转的艺术](https://mp.weixin.qq.com/s/2AfnnCALekwo4K_okRdpNg)  
-<img src="https://raw.githubusercontent.com/acm-clan/algorithm-stone/main/images/leetcode_tree.svg">
+<img src="https://raw.githubusercontent.com/KGYSaikou/algorithm-stone/main/images/leetcode_tree.svg">
 
 #### 动态规划路线图（进度40%）
-<img src="https://raw.githubusercontent.com/acm-clan/algorithm-stone/main/images/leetcode_dp.svg">
+<img src="https://raw.githubusercontent.com/KGYSaikou/algorithm-stone/main/images/leetcode_dp.svg">
 
 <!-- #### 并查集路线图（进度10%）
-<img src="https://raw.githubusercontent.com/acm-clan/algorithm-stone/main/images/leetcode_union_find.svg"> -->
+<img src="https://raw.githubusercontent.com/KGYSaikou/algorithm-stone/main/images/leetcode_union_find.svg"> -->
 
 #### 堆栈队列路线图（进度100%）
 1. [算法动画秒懂并查集](https://mp.weixin.qq.com/s/rF5bohHf3XfstGkjBawBuw)
 2. [动画解说单调栈](https://mp.weixin.qq.com/s/XsYD1lkiILcMcd3_vRws7A)  
 3. [滑动窗口入门](https://mp.weixin.qq.com/s/InpmYAfeesc7MHMCV50b-Q)  
-<img src="https://raw.githubusercontent.com/acm-clan/algorithm-stone/main/images/leetcode_heap_stack_queue.svg">
+<img src="https://raw.githubusercontent.com/KGYSaikou/algorithm-stone/main/images/leetcode_heap_stack_queue.svg">
 
 #### 链表路线图（进度100%）
-<img src="https://raw.githubusercontent.com/acm-clan/algorithm-stone/main/images/leetcode_linked_list.svg">
+<img src="https://raw.githubusercontent.com/KGYSaikou/algorithm-stone/main/images/leetcode_linked_list.svg">
 
 #### 二分查找（进度100%）
-<img src="https://raw.githubusercontent.com/acm-clan/algorithm-stone/main/images/leetcode_binary_search.svg">
+<img src="https://raw.githubusercontent.com/KGYSaikou/algorithm-stone/main/images/leetcode_binary_search.svg">
 
 #### 几何题路线图（进度100%）
-<img src="https://raw.githubusercontent.com/acm-clan/algorithm-stone/main/images/leetcode_geometry.svg">
+<img src="https://raw.githubusercontent.com/KGYSaikou/algorithm-stone/main/images/leetcode_geometry.svg">
 
 #### 小众题路线图（进度100%）
-<img src="https://raw.githubusercontent.com/acm-clan/algorithm-stone/main/images/leetcode_mini.svg">
+<img src="https://raw.githubusercontent.com/KGYSaikou/algorithm-stone/main/images/leetcode_mini.svg">
 
 ### Codeforces Div.3 Div.2路线图（进度1%）
-<img src="https://raw.githubusercontent.com/acm-clan/algorithm-stone/main/images/codeforces.svg">
+<img src="https://raw.githubusercontent.com/KGYSaikou/algorithm-stone/main/images/codeforces.svg">
 
 ### 安装开发环境
 
-详细的开发说明参考：[开发文档](https://github.com/acm-clan/algorithm-stone/blob/main/docs/dev_zh.md)
+详细的开发说明参考：[开发文档](https://github.com/KGYSaikou/algorithm-stone/blob/main/docs/dev_zh.md)
 
 ### Leetcode规划模块
 以下是Leetcode所有模块，按照题目数量进行排序。  

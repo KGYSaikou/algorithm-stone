@@ -74,7 +74,7 @@ class PlatformView(object):
 
     def add_finish_icon(self, path):
         c = util.get_file_content(path)
-        b = BeautifulSoup(c, "xml")
+        b = BeautifulSoup(c, "html.parser")
         svg = b.select_one("svg")
         self.resize_svg(svg)
         nodes = b.select("g.node")
@@ -116,7 +116,7 @@ class PlatformView(object):
         # flask = self.leet.check_flask(title)
         flask = self.check_flask(title)
         if flask != "":
-            url = "https://github.com/acm-clan/algorithm-stone/blob/main/user/%s/%s" % (self.slug, flask)
+            url = "https://github.com/KGYSaikou/algorithm-stone/blob/main/user/%s/%s" % (self.slug, flask)
             text = svg_icon_flask % (str(x0-9), str(y2-9), url)
             t = BeautifulSoup(text, "xml").select_one("g")
             n.append(t)
